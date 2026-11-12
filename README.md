@@ -7,7 +7,7 @@ The KTMB mobile application provides passengers with a platform to search for tr
 
 ## Documents
 - [Problem statement](Project-File/problem-statement.md)
-- [Requirements](docs/requirements.md)
+- [Requirements](Project-File/requirements.md)
 - [User stories](docs/user-stories.md)
 
 ## Status
