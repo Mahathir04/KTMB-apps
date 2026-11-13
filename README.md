@@ -14,4 +14,4 @@ The KTMB mobile application provides passengers with a platform to search for tr
 Planning (CSC649, Week 2)
 
 ## Author
-Mahathir
+MAHATHIR
