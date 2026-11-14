@@ -1,6 +1,6 @@
 # User Stories
 
-1. As a KTMB passenger, I want to navigate the application easily, so that I can find important features such as train schedules and ticket bookings without confusion.
+1. As a KTMB passenger, I want to navigate the application easily, so that I can find important features such as train schedules and ticket bookings without confusion. (FR1), (FR2), (FR3), (NFR3)
 
 **Acceptance Criteria:**
 - The application must display clearly labelled navigation menus for important features such as train schedules, ticket booking, and booking history.
@@ -8,7 +8,7 @@
 
 ---
 
-2. As a first-time user, I want a simple and step-by-step ticket booking process, so that I can purchase train tickets without difficulty.
+2. As a first-time user, I want a simple and step-by-step ticket booking process, so that I can purchase train tickets without difficulty. (FR3), (FR5)
 
 **Acceptance Criteria:**
 - The application must guide users through the ticket booking process in clear steps, including selecting departure and arrival stations, travel dates, and train schedules.
@@ -16,7 +16,7 @@
 
 ---
 
-3. As a frequent commuter, I want to view my booking history and e-tickets easily, so that I can access my travel information quickly without repeating the booking process.
+3. As a frequent commuter, I want to view my booking history and e-tickets easily, so that I can access my travel information quickly without repeating the booking process. (FR4)
 
 **Acceptance Criteria:**
 - The application must provide a dedicated booking history section where users can view their previous and upcoming bookings.
