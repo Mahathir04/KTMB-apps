@@ -3,7 +3,7 @@
 [One sentence: what problem does this project solve, and for whom?]
 
 ## Problem statement
-[3 to 5 sentences. Copy them from docs/problem-statement.md]
+The KTMB application is used by passengers to search for train schedules and purchase tickets. However, users, particularly first-time users, may experience difficulties navigating the application due to unclear menus, complicated booking procedures, and poorly organized information. These usability issues can increase the time and effort required to complete bookings, resulting in user frustration and a less satisfying experience. Therefore, improvements to the application's user interface and navigation are needed to provide a more efficient, accessible, and user-friendly booking experience.
 
 ## Documents
 - [Problem statement](File-Project/problem-statement.md)
